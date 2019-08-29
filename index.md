@@ -1,3 +1,3 @@
 ## Software Development Guide
 
-[Code Reviews]({% link code-reviews.md %})
+[Code Reviews]({% link /code-reviews.md %})

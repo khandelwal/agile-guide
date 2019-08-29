@@ -1,6 +1,7 @@
 ## Software Development Guide
 
-[code-review.md](code-review.md)
+[code-review.md](code-reviews.md)
+[Code Reviews]{% link code-reviews.md %}
 
 You can use the [editor on GitHub](https://github.com/khandelwal/agile-guide/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
